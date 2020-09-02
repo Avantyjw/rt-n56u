@@ -1,6 +1,6 @@
 SRC_NAME = dump1090-master
-#ARCHIVE_NAME = dump1090-master-0041922
-SRC_URL = https://github.com/Avantyjw/dump1090/archive/master.zip
+ARCHIVE_NAME = dump1090-master-0041922
+#SRC_URL = https://github.com/Avantyjw/dump1090/archive/master.zip
 
 THISDIR = $(shell pwd)
 
